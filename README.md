@@ -1,1 +1,2 @@
-Final Year Project
+# Chess
+Final year project for university
